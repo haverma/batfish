@@ -7,3 +7,4 @@ java_plugin(
         "@auto_service//:compile",
     ],
 )
+BROKEN
